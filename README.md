@@ -3,6 +3,17 @@ Repositório para explicar o Github.
 
 Explicar o github na tutoria Proa.
 
+<!--Imagens Troféus - Trophies Image-->  
+  <div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+   <!-- Fim Imagens Troféus - End Trophies Image-->  
+   
+ <!--Imagem criptografia e pasta -->   
+ <img alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
+ </div>
+<!--Fim Criptogrfia e Pasta - End Encryption and Folder-->
+<!--End to GitHub Stats-->
+
 <img src="https://noticias.buscavoluntaria.com.br/wp-content/uploads/2019/11/Instituto-PROA.png" alt="Logo Proa" width="30%">
 
 <img src="https://media.tenor.com/4mMlEGZactgAAAAC/adventure-time-jake.gif" alt="Jake" width="30%">
