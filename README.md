@@ -3,10 +3,7 @@ Repositório para explicar o Github.
 
 Explicar o github na tutoria Proa.
 
-<!--Imagens Troféus - Trophies Image-->  
-  <div align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=maxnegrao33&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
-   <!-- Fim Imagens Troféus - End Trophies Image-->  
+
    
  <!--Imagem criptografia e pasta -->   
  <img alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
@@ -19,3 +16,19 @@ Explicar o github na tutoria Proa.
 <img src="https://media.tenor.com/4mMlEGZactgAAAAC/adventure-time-jake.gif" alt="Jake" width="30%">
 
 <a href="https://github.com/martinha-ti" target="_blank">Github da Martinha</a>
+
+<!--Faixa de Arco-Íris - Rainbow range-->
+ <p align="center">
+  <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
+  </p>
+<!--Final da Faixa Animada - Rainbow range-->  
+ <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
+<!--Agradecimento pela Visita - Thanks for your Visit-->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Thanks+for+your+Visit+!!!)](https://git.io/typing-svg)
+<!--Final Agradecimento pela Visita - End Thanks for your Visit-->
+<!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
+  
+<!--Gif Final - End Gif-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>    
+<!--Final Gif Final/Movimento azul - End Gif/ blue Moviment-->
