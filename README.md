@@ -7,7 +7,7 @@ Repositório para explicar o Github.
 
 Explicar o github na tutoria Proa.
 
-</div>
+
    
  <!--Imagem criptografia e pasta -->   
  <img alt="DEV" height="240em" src="https://user-images.githubusercontent.com/64813513/167021686-b09b7051-45ef-4d2a-9863-db926ed3cf03.gif"/>  
@@ -25,6 +25,8 @@ Explicar o github na tutoria Proa.
  <p align="center">
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
+
+  </div>
 <!--Final da Faixa Animada - Rainbow range-->  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
