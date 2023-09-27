@@ -1,4 +1,3 @@
-<div style="background-color:#CCC;">
 
 # proa-recife
 Repositório para explicar o Github.
@@ -26,7 +25,7 @@ Explicar o github na tutoria Proa.
   <img src="https://github.com/CodeDroid999/CodeDroid999/blob/main/Rainbow.gif" width="100vw">
   </p>
 
-  </div>
+
 <!--Final da Faixa Animada - Rainbow range-->  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------------------->
   
